@@ -1,0 +1,57 @@
+let myResume={
+    "basics": {
+      "name": "Jafar Shahith",
+      "email": "jafshahid026@gamil.com",
+      "phone": 9092759927,
+      "degree": "BSC IT",
+      "location": {
+        "address": "86/3b bilal estate, ukkadam",
+        "postalCode": 641001,
+        "city": "Coimbatore",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/jafarshahith"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Sha windows",
+        "position": "Manager",
+        "startDate": "2021-06-04",
+        "endDate": "till now",
+        "summary": "handling various task and gaining lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Nehru Arts and Science College",
+        "department": "BSC Information Technology",
+        "studyType": "fulltime",
+        "batch start year": 2016,
+        "batch end year": 2019,
+        "gpa": 6,
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "beginer",
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "SOFTWARE DEVOLOPER",
+      }
+    ]
+  }
+  console.log(myResume);
+  
